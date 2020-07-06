@@ -1,0 +1,2 @@
+# hngl
+automated hangeul
